@@ -3,6 +3,7 @@
 
 ## 🛡️ Professional Overview
 I am a dedicated IT bilingual Security Consultant with a deep focus on **Cloud Security, Networking, and Governance**. With a "Security-First" mindset, I specialize in bridging the gap between complex technical infrastructure and business compliance requirements (NIST, ISO 27001, Law 25).
+### CISSP | CCSP
 
 ---
 
