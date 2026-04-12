@@ -51,8 +51,6 @@ Hands-on implementation of enterprise IAM controls in Azure:
 
 ## 🤝 Let’s Connect
 
-I am actively seeking opportunities in cybersecurity.
-
 * 💼 [LinkedIn](https://linkedin.com/in/abdel-aziz-ng-4b4b62259)
 * 📧 [Email](mailto:aziznganansou@gmail.com)
 
