@@ -9,7 +9,7 @@ I am a dedicated IT bilingual Security Consultant with a deep focus on **Cloud S
 
 ## 🚀 Featured Project
 
-### 🔐 Azure IAM Security Lab
+### 🔐 Azure IAM Security Lab & AI-enhanced version
 
 Hands-on implementation of enterprise IAM controls in Azure:
 
@@ -18,6 +18,7 @@ Hands-on implementation of enterprise IAM controls in Azure:
 * Multi-Factor Authentication (MFA)
 * Azure Policy enforcement
 * Logging & Monitoring (SIEM-ready)
+* AI implementation > AI-assisted governance; AI-based risk detection; behavioral detection queries (KQL); adaptive access control via Conditional Access
 
 ---
 
