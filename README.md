@@ -21,31 +21,11 @@ Hands-on implementation of enterprise IAM controls in Azure:
 
 ---
 
-## 🛠 Technical Toolkit
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Certifications** | CISSP, CCSP, CCNA, Security+, Network+, A+, GCP ACE, AWS CP |
-| **Security & GRC** | NIST, ISO 27001, SOC 2, IAM, SIEM, Firewall/VPN, IDS/IPS |
-| **Infrastructure** | Windows/Linux Hardening, Active Directory, Cisco, ServiceNow |
-| **In Progress** | Microsoft AZ-500 (Azure Security Technologies) |
-
----
-
-## 💼 Professional Strengths
-
-* Ability to explain complex security concepts to non-technical stakeholders
-* Strong analytical and problem-solving mindset
-* Fast learner with hands-on lab experience
-* Adaptable to fast-paced and high-pressure environments
-
----
-
 ## 📈 Current Focus
 
 * Building real-world **cloud security labs**
 * Strengthening **SIEM & incident response skills**
-* Advancing expertise in **Azure Security (AZ-500)**
+* Advancing expertise in **Azure Security**
 
 ---
 
