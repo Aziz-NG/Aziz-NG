@@ -25,7 +25,6 @@ Hands-on implementation of enterprise IAM controls in Azure:
 ## 📈 Current Focus
 
 * Building real-world **cloud security labs**
-* Strengthening **SIEM & incident response skills**
 * Advancing expertise in **Azure Security**
 
 ---
