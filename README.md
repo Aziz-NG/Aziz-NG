@@ -7,7 +7,7 @@ I am a dedicated IT bilingual Security Consultant with a deep focus on **Cloud S
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔐 Azure IAM Security Project & its AI-enhanced version
 
