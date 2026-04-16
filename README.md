@@ -9,7 +9,7 @@ I am a dedicated IT bilingual Security Consultant with a deep focus on **Cloud S
 
 ## 🚀 Featured Project
 
-### 🔐 Azure IAM Security Lab & AI-enhanced version
+### 🔐 Azure IAM Security Project & its AI-enhanced version
 
 Hands-on implementation of enterprise IAM controls in Azure:
 
@@ -24,7 +24,7 @@ Hands-on implementation of enterprise IAM controls in Azure:
 
 ## 📈 Current Focus
 
-* Building real-world **cloud security labs**
+* Building real-world **cloud security projects**
 * Advancing expertise in **Azure Security**
 
 ---
