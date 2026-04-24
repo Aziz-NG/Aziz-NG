@@ -20,6 +20,15 @@ Hands-on implementation of enterprise IAM controls in Azure:
 * Logging & Monitoring (SIEM-ready)
 * AI implementation > AI-assisted governance; AI-based risk detection; behavioral detection queries (KQL); adaptive access control via Conditional Access
 
+### 🔐 Data Classification & Zero Trust Storage Architecture
+
+Designed and implemented a data protection solution using Microsoft Purview and Azure Storage to classify and secure sensitive data:
+
+* Configured sensitivity labels (Public, Confidential, PII)
+* Enforced encryption at rest
+* Restricted access through private endpoints and network isolation
+*  Mapped controls to NIST, ISO 27001, SOC 2, and Quebec Bill 25 requirements
+
 ---
 
 ## 📈 Current Focus
