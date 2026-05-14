@@ -27,7 +27,18 @@ Designed and implemented a data protection solution using Microsoft Purview and 
 * Configured sensitivity labels (Public, Confidential, PII)
 * Enforced encryption at rest
 * Restricted access through private endpoints and network isolation
-*  Mapped controls to NIST, ISO 27001, SOC 2, and Quebec Bill 25 requirements
+* Mapped controls to NIST, ISO 27001, SOC 2, and Quebec Bill 25 requirements
+
+### 🔐 Cloud SIEM & SOAR
+
+Designed and deployed a cloud-native SIEM & SOAR environment in Microsoft Azure:
+
+* Centralized cloud logging & monitoring
+* Threat detection engineering with KQL
+* Automated incident response via Logic Apps playbooks
+* Threat modeling with STRIDE & attack trees
+* Dashboards & visualization for SOC reporting
+* Compliance with NIST, ISO 27001, and SOC 2
 
 ---
 
